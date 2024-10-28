@@ -1,11 +1,4 @@
-'''
-Function:
-	塔防游戏
-作者:
-	Python代码狂人
-微信公众号:
-	Python代码大全
-'''
+
 import pygame
 from interface import END
 from interface import START
